@@ -1,0 +1,13 @@
+12,Shooters,Platformers,Male,Playstation
+67,Multiplayer,Other,female,Nintedo
+7,Multiplayer,Platformers,Other,Saga
+14,Shooters,Platformers,Male,Playstation
+87,Multiplayer,Other,Female,Nintedo
+71,Multiplayer,Platformers,Other,Saga
+43,Platformers,Adventure,Female,PC
+12,Adventure,Multiplayer,Female,PC
+66,RPG,Shooters,Male,PC
+45,RPG,Platformers,Female,PC,
+12,Platformers,Adventure,Other,PC,
+20,RPG,Multiplayer,Female,Nintedo,
+56,RPG,Platformers,Other,Nintedo,
